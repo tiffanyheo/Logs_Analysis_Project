@@ -2,7 +2,7 @@
 
 ## Description
 It is "Full Stack Web Developer Nanodegree Project" at Udacity.
-It provides the information of given DB as below.
+It provides the specific information of given DB as below.
 1. What are the most popular three articles of all time?
 2. Who are the most popular article authors of all time?
 3. On which days did more than 1% of requests lead to errors?"
@@ -19,3 +19,6 @@ Result :
 What are the most popular three articles of all time?
 Candidate is jerk, alleges rival — 338647 views
 ...
+
+## Author
+Tiffany Heo _tiffheo@gmail.com_
